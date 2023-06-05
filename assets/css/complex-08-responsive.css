@@ -29,6 +29,7 @@ body {
   margin-left: 12px;
   background-color: white;
   padding: 140px;
+  max-height: 100vh;
 }
 
 h1 {
