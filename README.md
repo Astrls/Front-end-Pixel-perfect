@@ -4,7 +4,7 @@ This exercise aims to reproduce as perfectly as possible different mockups via H
 
 ## Index 
 
-[Please find the index here](./index.html)
+[Please find the index here](https://astrls.github.io/Front-end-Pixel-perfect/)
 
 ## Simple Interface 11:
 
