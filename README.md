@@ -8,7 +8,7 @@ This exercise aims to reproduce as perfectly as possible different mockups via H
 
 ## Simple Interface 11:
 
-[Image link](../../assets/img/interface.11.png) [Link to page](./simple-interface-11.html)
+[Image link](/assets/img/interface.11.png) [Link to page](https://astrls.github.io/Front-end-Pixel-perfect/simple-interface-11.html)
 
 ## Complex Interface 03:
 
